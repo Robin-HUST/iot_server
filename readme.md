@@ -7,3 +7,4 @@
     - MB bank: **45k** đến **777776268 - Nguyen Duc Dai**
 1. Go to bot and send command /id
 2. Copy your id that bot send you and send to me, i will upgrade it
+<span style="color:blue">some *blue* text</span>.
