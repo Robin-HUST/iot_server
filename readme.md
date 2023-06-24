@@ -5,8 +5,6 @@
     - Alipay: **15¥** to **84-383908681**
     - Momo: **45k** đến **0383908681 - Nguyen Duc Dai**
     - MB bank: **45k** đến **777776268 - Nguyen Duc Dai**
-1. Go to bot and send command /id
-2. Copy your id that bot send you and send to me, i will upgrade it
+2. Go to bot and send command /id
+3. Copy your id that bot send you and send to me, i will upgrade it
 
-
-<span style="color:blue">some *This is Blue italic.* text</span>
